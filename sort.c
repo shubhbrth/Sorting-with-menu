@@ -1,5 +1,6 @@
 #include<stdio.h>
 #include<conio.h>
+//Used for variable declaration
 int ar[20],radarr[10][10],hash[20],i,x,j,q,n,hash_size,lar,l,r,piv,pi,collision;
 void bubble();
 void insertion();
